@@ -1,0 +1,61 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Kotlin/Java build
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.ap_
+*.dex
+*.so
+*.o
+*.obj
+
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDEs
+.idea/
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+
+# Android Studio
+.cxx/
+captures/
+.externalNativeBuild/
+
+# Jetpack Compose Preview cache
+.idea/compose-*.xml
+
+# Keystore files (you should never commit signing keys)
+*.jks
+*.keystore
+*.pem
+
+# Misc
+*.tmp
+*.bak
+*.swp
