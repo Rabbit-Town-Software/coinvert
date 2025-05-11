@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.currency_converter"
+    namespace = "com.rabbittownsoftware.coinvert"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.currency_converter"
+        applicationId = "com.rabbittownsoftware.coinvert"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
