@@ -1,33 +1,36 @@
 <!-- Banner Image at the top, full width -->
-![CoinVert Icon](https://raw.githubusercontent.com/rabbit-town-software/coinvert/master/assets/banner.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rabbit-town-software/coinvert/master/assets/banner.jpg" alt="CoinVert Banner"/>
+</p>
 
-# CoinVert
+<h1 align="center">CoinVert</h1>
+<p align="center"><em>A powerful, modern currency converter with real-time rates and a focus on privacy.</em></p>
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
-![Build Status](https://img.shields.io/badge/build-pending-lightgrey.svg)
-![Open Issues](https://img.shields.io/github/issues/rabbit-town-software/coinvert.svg)
-![Last Commit](https://img.shields.io/github/last-commit/rabbit-town-software/coinvert)
-![Code size](https://img.shields.io/github/languages/code-size/rabbit-town-software/coinvert)
-![Contributors](https://img.shields.io/github/contributors/rabbit-town-software/coinvert)
-![Language](https://img.shields.io/github/languages/top/rabbit-town-software/coinvert)
-
-A powerful, modern currency converter with real-time rates and a focus on privacy.
+<p align="center">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
+  <img src="https://img.shields.io/badge/build-pending-lightgrey.svg">
+  <img src="https://img.shields.io/github/issues/rabbit-town-software/coinvert.svg">
+  <img src="https://img.shields.io/github/last-commit/rabbit-town-software/coinvert">
+  <img src="https://img.shields.io/github/languages/code-size/rabbit-town-software/coinvert">
+  <img src="https://img.shields.io/github/languages/top/rabbit-town-software/coinvert">
+  <img src="https://img.shields.io/github/contributors/rabbit-town-software/coinvert">
+</p>
 
 ---
 
 ## About CoinVert
 
-CoinVert is a clean, full-featured currency converter designed to support over 200 currencies including cryptocurrencies. With a sleek interface and real-time rate updates, it’s built to be fast, ad-free, and fully transparent about your data.
+**CoinVert** is a clean, full-featured currency converter designed to support over 200 currencies including cryptocurrencies. With a sleek interface and real-time rate updates, it’s built to be fast, ad-free, and fully transparent about your data.
 
 ---
 
 ## Features
 
-- Real-time exchange rate updates  
-- Support for 200+ global currencies and cryptocurrencies  
-- Offline mode with cached rates  
-- No ads, no tracking, no nonsense  
-- Modern, intuitive UI  
+- 🔁 Real-time exchange rate updates  
+- 🌐 Support for 200+ global currencies and cryptocurrencies  
+- 📶 Offline mode with cached rates  
+- 🚫 No ads, no tracking, no nonsense  
+- 🖥️ Modern, intuitive UI  
 
 ---
 
@@ -64,3 +67,19 @@ If you're interested, get in touch!
 
 Questions, bug reports, or feature requests?  
 Email: [support@rabbittownsoftware.com](mailto:support@rabbittownsoftware.com)
+
+---
+
+## 🐇 Rabbit Town Software
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/Rabbit-Town-Software/misa-engine/blob/eb3aa63bad02385d2af4b7b130d1bde70e2a2715/assets/rabbittownlogo.jpg?raw=true" alt="Rabbit Town Software Logo" width="180"/>
+</p>
+
+<p align="center">
+  <strong>Rabbit Town Software</strong><br/>
+  Open-source. No compromise.
+</p>
+
