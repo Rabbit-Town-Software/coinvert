@@ -48,10 +48,10 @@ Your data stays on your device — where it belongs.
 CoinVert is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
 You are free to use, modify, and distribute the app, as long as any modified versions remain under the same license.
 
-- ✔️ Open-source and modification-friendly  
-- ✔️ No ads or data selling  
-- ✔️ Commercial use allowed  
-- ❗ Must remain GPL-3.0 licensed  
+- ✔️ Commercial use allowed
+- ✔️ Modifications allowed
+- ✔️ Distribution allowed
+- ❗ Derivative works must also be GPL-3.0 licensed
 
 ---
 
